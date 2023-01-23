@@ -1,8 +1,3 @@
-- 🔥 IT Analyst, student developer starting my journey as a programmer.
-
-- 🔭 I’m currently working at [X2TI TECH](https://x2ti.tech)
-
-- 📚 Currently studying **JavaScript, HTML, CSS, Node.JS** 
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá mundo
 
