@@ -18,7 +18,7 @@
 
 Aqui estão algumas coisas que eu estou aprendendo, no começo desta longa jornada de aprendizado.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,styledcomponents,nodejs,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,docker)](https://skillicons.dev)
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/geferson-camargo-8b9aa3b2) 
