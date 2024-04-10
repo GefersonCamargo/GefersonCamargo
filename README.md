@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá mundo
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hello Word!
 
 - 🔥 IT Analyst, student developer starting my journey as a programmer.
 
